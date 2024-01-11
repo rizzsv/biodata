@@ -1,0 +1,22 @@
+* {
+    font-family: sans-serif;
+}
+
+.container{
+    max-width: 600px;
+    background-color: #6A755D;
+    margin: auto;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 100px
+}
+
+img {
+    display: block;
+    max-width: 300px;
+    margin: auto;
+    border-radius: 50%;
+}
